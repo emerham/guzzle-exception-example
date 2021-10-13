@@ -1,0 +1,4 @@
+vendor
+.idea
+composer.lock
+guzzle-exception-example.log
